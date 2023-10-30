@@ -1,0 +1,31 @@
+/*****hadoc*****/
+/* #hadoc(f286c1a79615597b) #css starts */
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5)
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: rgba(0,0,0,.5)
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #14BDEE
+}
+.navbar-light .navbar-nav .active>.nav-link:hover{
+    color: #14BDEE
+}
+.headerh222fa673a781ab9e .btn {
+    color: rgba(0,0,0,.5)
+}
+.headerh222fa673a781ab9e .fa-shopping-cart {
+    color: rgba(0,0,0,.5)
+}
+.headerh222fa673a781ab9e .fa-user-plus{
+    color: rgba(0,0,0,.5)
+}
+.headerh222fa673a781ab9e .btn:hover {
+    color: #14BDEE
+}
+.headerh222fa673a781ab9e .fa:hover{
+    color: #14BDEE
+}
+/* #hadoc(f286c1a79615597b) #css ends */
+/*****hadoc*****/
