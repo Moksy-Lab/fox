@@ -53,15 +53,41 @@
 .freyategxpfzk1ni .fdb-block {
     padding: 5.5rem 0
   }
-
-  
-
       .freyategxpfzk1ni   .fdb-block .fdb-touch {
       border-top: none
      }
+     .freyategxpfzk1ni .fdb-block .fdb-box {
+        padding: 1.75rem 2.5rem
+    }
 
      .freyategxpfzk1ni .fdb-block img + h2 {
       margin-top: 1.5rem
      }
+     .freyategxpfzk1ni h2{
+        font-size: 20px
+    }
 /* #freya(freyategxpfzk1ni) #css starts */
 /*****freya*****/
+
+/*****faye*****/
+/* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block {
+    padding: 4.5rem 0
+}
+.fayete8bna5e4lc h2{
+    font-size: 20px
+}
+
+.fayete8bna5e4lc    .fdb-block .fdb-box {
+    padding: 1.75rem 2.5rem
+     }
+     .fayete8bna5e4lc    .fdb-block .fdb-touch {
+      border-top: solid 0.3125rem #14BDEE;
+      z-index: 2
+     }
+     .fayete8bna5e4lc  a{
+        color: rgba(0,0,0,.5);
+    font-weight: 600
+     }
+/* #faye(fayete8bna5e4lc) #css starts */
+/*****faye*****/
