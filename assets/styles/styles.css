@@ -98,52 +98,101 @@ hr {
   border-top: 1px solid rgba(0, 0, 0, 0.1); }
 /*****TypographyCSS*****/
 
-/*****hectorian*****/
-/* #hectorian(headercbxff5hblw3) #css starts  */
-.headercbxff5hblw3 .nav-link{
-    margin-left: 8px
+/*****hanna*****/
+/* #hanna(headertmhh88f5ufy) #css starts  */
+.headertmhh88f5ufy .nav-link{
+    margin-left: 15px
 }
-.headercbxff5hblw3 .logo{
-    max-height: 30px
-}
-.headercbxff5hblw3 .navbar-open-icon {
-    display: inline
-}
-.headercbxff5hblw3 .navbar-close-icon {
-    display: none
-}
-.headercbxff5hblw3 .navbar-toggler[aria-expanded="true"] .navbar-open-icon {
-    display: none
-}
-.headercbxff5hblw3 .navbar-toggler[aria-expanded="true"] .navbar-close-icon {
-    display: inline
-}
-/* #hectorian(headercbxff5hblw3) #css ends  */
-/*****hectorian*****/
+/* #hanna(headertmhh88f5ufy) #css ends  */
+/*****hanna*****/
 
-/*****agadu*****/
-/* #agadu(bf5e9e9e7ee746db) #css starts  */
-.aboutbf5e9e9e7ee746db .DescriptionHeading {
-    font-size: 34px;
-    color: #0A033C
+/*****agni*****/
+/* #agni(cded716dce36a6e8) #css starts  */
+.aboutcded716dce36a6e8 .DescriptionHeading {
+    font-size: 50px
 }
 
-.aboutbf5e9e9e7ee746db .DescriptionPara {
-    color: #0A033C;
+.aboutcded716dce36a6e8 .DescriptionPara {
+    color: #808080;
     font-size: 18px
 }
 
-.aboutbf5e9e9e7ee746db .descriptionImage img{
-    margin-top: -30px
+.aboutcded716dce36a6e8 .badge{
+    color: #FF705E;
+    background-color: #F5F0F7
 }
-.aboutbf5e9e9e7ee746db .searchBtn{
-    background-color:#A560F4 ;
-    border-radius: 7px;
+.aboutcded716dce36a6e8 .searchBtn{
+    background-color:#FF705E ;
+    border-radius: 15px;
+    color: white
+}
+/* #agni(cded716dce36a6e8) #css ends  */
+/*****agni*****/
+
+/*****fukra*****/
+/* #fukra(fukraft73lhx26hp) #css starts */
+.fukraft73lhx26hp .fdb-block {
+    padding: 7.5rem 0
+ }
+
+ .fukraft73lhx26hp .fdb-block img.fdb-icon {
+      width: auto;
+      width: 3.75rem
+    }
+/* #fukra(fukraft73lhx26hp) #css starts */
+/*****fukra*****/
+
+/*****atami*****/
+ /* #atami(d390a380620aac0e) #css starts  */
+ .aboutd390a380620aac0e .video_card {
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden
+}
+
+.aboutd390a380620aac0e .video_card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7
+}
+
+.aboutd390a380620aac0e .video_card>img {
+    width: 100%
+}
+
+.aboutd390a380620aac0e .video_card>.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    background: #2077FF;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    box-shadow: 0px 0px 0px 8px rgba(255, 255, 255, 0.4);
+    border: none;
     color: white;
-    font-weight: bold
+    outline: none
 }
-/* #agadu(bf5e9e9e7ee746db) #css ends  */
-/*****agadu*****/
+
+.aboutd390a380620aac0e .video_card>.btn:hover {
+    box-shadow: 0px 0px 0px 14px rgba(255, 255, 255, 0.5)
+}
+
+.aboutd390a380620aac0e .video_card>.btn:active {
+    color: #2077FF;
+    background: rgba(255, 255, 255, 0.5)
+}
+.aboutd390a380620aac0e .para{
+    font-size: 20px;
+}
+/* #atami(d390a380620aac0e) #css ends  */
+/*****atami*****/
 
 /*****feresa*****/
 /* #feresa(feresafe19zziasyx) #css starts */
@@ -158,112 +207,54 @@ hr {
 /* #feresa(feresafe19zziasyx) #css starts */
 /*****feresa*****/
 
-/*****adolf*****/
-/* #adolf(p3dce575962b3c369) #css starts  */
-.aboutp3dce575962b3c369 .jumbotron{
-    border-radius: 13px
+/*****apo*****/
+/* #apo(ab8dfbbd4bed) #css starts  */
+.aboutab8dfbbd4bed .Explore{
+    background-color: black;
+       padding: 15px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 10px
 }
-.aboutp3dce575962b3c369 .DescriptionHeading {
-        font-size: 40px;
-        color: #0A033C
-    }
-
-    .aboutp3dce575962b3c369 .DescriptionPara {
-        color: #0A033C;
+.aboutab8dfbbd4bed .description{
+    font-size: 40px;
+    color: #000000;
+        font-weight: 700
+}
+.aboutab8dfbbd4bed .para{
         font-size: 18px
-    }
-    
-    .aboutp3dce575962b3c369 .badge{
-        color: #A560F4;
-        background-color: #F5F0F7
-    }
-    .aboutp3dce575962b3c369 .searchBtn{
-        background-color:#FF705E ;
-        border-radius: 10px;
-        color: white;
-        font-weight: bold
-    }
-/* #adolf(p3dce575962b3c369) #css ends  */
-/*****adolf*****/
+}
+/* #apo(ab8dfbbd4bed) #css ends  */
+/*****apo*****/
 
-/*****felix*****/
-/* #felix(felixfr3poxt3ngm) #css starts */
-.felixfr3poxt3ngm .fdb-block img.fdb-icon {
-    width: auto;
-    width: 3.75rem
-   }
-/* #felix(felixfr3poxt3ngm) #css starts */
-/*****felix*****/
-
-/*****agdu*****/
-    /* #agdu(d390a380620aac0e) #css starts  */
-    .aboutd390a380620aac0e .video_card {
-        position: relative;
-        border-radius: 5px;
-        overflow: hidden
-    }
-
-    .aboutd390a380620aac0e .video_card::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: #f48637;
-        opacity: 0.7
-    }
-
-    .aboutd390a380620aac0e .video_card>img {
-        width: 100%
-    }
-
-    .aboutd390a380620aac0e .video_card>.btn {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        font-size: 30px;
-        background: #fff;
-        border-radius: 100%;
-        width: 80px;
-        height: 80px;
-        box-shadow: 0px 0px 0px 8px rgba(255, 255, 255, 0.4);
-        border: none;
-        outline: none
-    }
-
-    .aboutd390a380620aac0e .video_card>.btn:hover {
-        box-shadow: 0px 0px 0px 14px rgba(255, 255, 255, 0.5)
-    }
-
-    .aboutd390a380620aac0e .video_card>.btn:active {
-        background: rgba(255, 255, 255, 0.5)
-    }
-    /* #agdu(d390a380620aac0e) #css ends  */
-/*****agdu*****/
-
-/*****teddy*****/
-    /* #teddy(teddyTestimonial) #css starts  */
-    .teddyTestimonial .man{
-        max-width: 80px;
-        margin-top: 15px;
-        height: 80px;
-    }
-    @media (min-width: 1200px) {
-        .teddyTestimonial .mt-xl-5, 
-        .teddyTestimonial .my-xl-5 {
-            margin-top: 0.8rem !important;
-        }
-    }
-    @media (min-width: 1200px) {
-        .teddyTestimonial .pb-xl-5, 
-        .teddyTestimonial .py-xl-5 {
-            padding-bottom: 2rem !important;
-        }
-    }
-    /* #teddy(teddyTestimonial) #css ends  */
-/*****teddy*****/
+/*****taylor*****/
+    /* #taylor(taylorTestimonial) #css starts  */
+    .taylorTestimonial .fdb-block {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #FFFFFF
+       }
+      
+        .taylorTestimonial  .fdb-block .container {
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: contain
+      }
+      
+          .taylorTestimonial .fdb-block .fdb-box {
+          background: #FFFFFF;
+          padding: 3.75rem 2.5rem;
+          overflow: hidden;
+          color: #444444;
+          border-radius: 0.25rem;
+          box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2)
+           }
+           .taylorTestimonial  .BGContainer{
+              background-image: url(https://images.moksy.com/templates/default/shapes/shape-purple.svg)
+           }
+    /* #taylor(taylorTestimonial) #css ends  */
+/*****taylor*****/
 
 /*****cash*****/
     /* #cash(cashCounters) #css starts  */
@@ -300,48 +291,84 @@ hr {
     /* #cash(cashCounters) #css ends  */
 /*****cash*****/
 
-/*****basu*****/
-/* #basu(d12294b36d7b134b) #css starts  */
-.bannerd12294b36d7b134b {
+/*****babette*****/
+ /* #babette(e54caba42c027d0f) #css starts  */
+ .bannere54caba42c027d0f .video_card {
+    position: relative;
+    border-radius: 5px;
+    background-image: url(http://rb.gy/g40g);
+    background-repeat: no-repeat;
+    background-position: center;
     overflow: hidden
 }
-.bannerd12294b36d7b134b .button {
-background-color: #4A4CC7;
-color: rgb(255, 255, 255);
-margin-top: 20px
+
+.bannere54caba42c027d0f .video_card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1
 }
 
-.bannerd12294b36d7b134b .button:hover {
-color: #FFC72C
+.bannere54caba42c027d0f .video_card>img {
+    width: 1000px;
+    height: 500px;
+    border-radius: 20px
 }
-.bannerd12294b36d7b134b .background{
-padding: 50px
-}
-.bannerd12294b36d7b134b .banner-container{
-background-color: #E8EDF3
-}
-.bannerd12294b36d7b134b .backgroundIMG{
-background-image: url(https://i.ibb.co/VtwvzPC/1.png);
-height: 100%;
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-padding: 122px
-}
-/* #basu(d12294b36d7b134b) #css ends  */
-/*****basu*****/
 
-/*****flores*****/
-    /* #flores(floresFooter) #css starts */
-    .floresFooter .fdb-block {
-        padding: 3rem 0
-     }
-     .floresFooter a {
+.bannere54caba42c027d0f .video_card>.btn {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    background: #fff;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    box-shadow: 0px 0px 0px 8px rgba(255, 255, 255, 0.4);
+    border: none;
+    outline: none
+}
+
+.bannere54caba42c027d0f .video_card>.btn:hover {
+    box-shadow: 0px 0px 0px 14px rgba(255, 255, 255, 0.5)
+}
+
+.bannere54caba42c027d0f .video_card>.btn:active {
+    background: rgba(255, 255, 255, 0.5)
+}
+.bannere54caba42c027d0f .stroke { 
+        color: white; 
+        -webkit-text-stroke-width: 1px; 
+        -webkit-text-stroke-color: #0EA187
+    } 
+    .bannere54caba42c027d0f .desText{
+        font-size: 60px;
+        font-weight: bold
+    }
+/* #babette(e54caba42c027d0f) #css ends  */
+/*****babette*****/
+
+/*****foska*****/
+    /* #foska(foskaFooter) #css starts */
+    .foskaFooter a{
+        color: #353935;
+    }
+    .foskaFooter a{
+        color: #353935;
+    }
+    .foskaFooter .btn,
+    .foskaFooter .btn:hover,
+    .foskaFooter .btn:active,
+    .foskaFooter .btn:focus{
         color: #fff;
-     }
-     .floresFooter .nav-link{
-        padding: 0.5rem 0rem;
-     }
-    /* #flores(floresFooter) #css ends */
-/*****flores*****/
+        background-color: #353935;
+        border-color: #353935;
+        box-shadow: none;
+    }
+    /* #foska(foskaFooter) #css ends */
+/*****foska*****/
 
