@@ -6,9 +6,9 @@ Moksy is your premier destination for open-source and 💯% free professional e-
 ### Our Mission
 To democratize e-learning by offering high-quality, professional templates at no cost. Designed on the Bootstrap framework, our templates are not only responsive but also meticulously documented, ensuring adaptability across various platforms.
 
-## Fox: eLearning Redefined
+## Aiden: eLearning Redefined
 
-Introducing **Fox**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
+Introducing **Aiden**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
 
 ### Key Features:
 - **Responsive Design:** Seamless experience across devices.
@@ -36,31 +36,31 @@ Introducing **Fox**, a cutting-edge eLearning template tailored to revolutionize
 
 ### Tags:
 - #eLearningTemplate
-- #Fox
+- #Aiden
 - #ResponsiveDesign
 - #OnlineEducation
 - #InteractiveUI
 - #Education2023
 
-### What is Fox :
-"Fox is a high-caliber eLearning template that elevates online educational platforms. Its responsive design and interactive UI make it a standout choice for educators striving for excellence. Embrace the future of eLearning with Fox."
+### What is Aiden :
+"Aiden is a top-tier eLearning template, designed to elevate online educational platforms. With its responsive design and interactive UI, it stands out as a choice for educators aiming for excellence. Experience the future of eLearning with Aiden."
 
-### Why Choose Fox?
+### Why Choose Aiden?
 **High Quality:** Built to the latest web standards ensuring quality and integrity.
 
 **SEO Ready:** Integrated with best practices in SEO, ensuring your platform's online visibility.
 
 **User-Centric:** Designed with user experience at its core.
 
-Harness the power of **Fox** for a transformative eLearning journey.
+Harness the power of **Aiden** for a transformative eLearning journey.
 
 
 ### Experience Moksy Live
 #### Moksy Official Site
-[Fox](https://moksy.com/templates/fox/?project_id=25003)
+[Aiden](https://moksy.com/templates/aiden)
 
 #### GitHub Live Preview
-[Fox](https://moksy-lab.github.io/fox)
+[Aiden](https://moksy-lab.github.io/aiden)
 
 ### Licensing
 Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.com), licensed under the [MIT](https://opensource.org/licenses/MIT). We, at moksy.com, reserve the right to modify the license terms for future releases.
@@ -75,13 +75,13 @@ Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.c
 Every team member at Moksy has dedicated themselves to serve the community. Your support fuels our motivation and ensures we can continue to offer these resources for free.
 
 ### Impressed with Our Template? 🌟
-<a href="https://github.com/Moksy-Lab/Fox">
+<a href="https://github.com/Moksy-Lab/Aiden">
     Give us a star on GitHub and help us reach more developers! ⭐️
 </a>
 
 ### Contribute & Collaborate
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
-<a href="https://github.com/Moksy-Lab/Fox">
+<a href="https://github.com/Moksy-Lab/Aiden">
 Join our community and contribute to an ever-evolving platform.
 </a>
 
